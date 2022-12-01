@@ -4,11 +4,11 @@ date = "2022-12-01"
 draft = false
 pinned = false
 +++
-{{}}
+{{<lead>}}
 
 ## Wie der Klimawandel die Bestände unserer kälteliebenden Fischbestände in der Aare schrumpfen lässt - der aussichtslose Kampf des Fischereivereins Aaretal
 
-{{}}
+{{</lead>}}
 
 ### Petri Heil
 
@@ -18,7 +18,7 @@ Während ein kleiner Specht am gegenüberliegenden Ufer auf einen Stamm einha�
 
 ![Zwei Städter mit der falschen Ausrüstung, jedoch mit der richtigen Einstellung. (Xeno Messmer 25.09.2022)](japsss.jpeg)
 
-{{}}
+{{<box>}}
 
 ### Dr. Joachim Guthruf
 
@@ -26,7 +26,7 @@ Joachim G. ist in Burgdorf aufgewachsen und begann ein Biologiestudium in Bern. 
 
 ![Joachim Guthruf, Gewässerbiologe und Leiter Jugendgruppe Aaretal. (Corsin Casty 25.09.2022)](1-duli.jpeg)
 
-{{}}
+{{</box>}}
 
 ### Der Erstickungstod
 
@@ -50,7 +50,7 @@ Joachim Guthruf, Gewässerbiologe und Hobbyfischer
 
 ![Corsin und Xeno beim Aarefischen (Xeno Messmer 25.09.2022)](jap-2d.jpeg)
 
-{{}}
+{{<box>}}
 
 ### Wasserkraft und Erhaltung von Restwassermengen
 
@@ -58,7 +58,7 @@ In der Schweiz stammen 58% des produzierten Stroms aus der Wasserkraft. Das sind
 
 Noch schlimmer ist, dass in mehreren Kantonen die Restwasserbestimmungen aus dem Jahr 1991 noch immer nicht vollzogen sind und zahlreiche Gewässer ohne Restwasser sind.
 
-{{}}
+{{</box>}}
 
 ### Der unerbittliche Kampf
 

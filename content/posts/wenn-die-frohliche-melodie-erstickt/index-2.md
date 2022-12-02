@@ -39,6 +39,8 @@ Das wunderbare türkis-grüne Wasser der Aare erweckt den Anschein eines gesun
 
 *Carlo, Fischer*
 
+
+
 ![Joachim Guthruf und Corsin Casty waten durch die Aare. (Xeno Messmer 25.09.2022)](jap-2.jpeg)
 
 ### Die Nachhaltigkeit der Wasserkraft
@@ -50,6 +52,8 @@ Der Lärm, den die schweren Maschinen verursachen, ist nervenzehrend und in uns
 ## «An das muss man sich wohl auch in Zukunft gewöhnen»
 
 Joachim Guthruf, Gewässerbiologe und Hobbyfischer
+
+
 
 ![Corsin und Xeno beim Aarefischen (Xeno Messmer 25.09.2022)](jap-2d.jpeg)
 

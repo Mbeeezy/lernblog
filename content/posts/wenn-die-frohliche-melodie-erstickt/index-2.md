@@ -17,6 +17,8 @@ Die lebhafte Melodie von Schuberts “Forelle” ist eine ausgezeichnete Metaphe
 
 Während ein kleiner Specht am gegenüberliegenden Ufer auf einen Stamm einhämmert, hört man einen grellen Schrei „ I HA EINE!“. Fischer Carlo kurbelt eifrig die Schnur seiner Rute ein und sein Kumpel greift nach dem Kescher. Am Ende der Schnur hängt ein bemitleidenswerter, winziger Wels. Die Enttäuschung ist Carlo ins Gesicht geschrieben. Joachim erklärt uns, dass nicht nur die Grösse des Fisches, sondern auch die Art für Ernüchterung sorgte. Fischarten wie der Wels profitieren vom Temperaturanstieg, denn sie können sich unter diesen Umständen besonders gut fortpflanzen. Der Wels wird demnach immer häufiger. Obschon der Fischerverein vermehrt Jungfische aussetzt, fallen die Fangzahlen von Kaltwasserfischen von Jahr zu Jahr, erzählt uns Joachim. Bei den Bachforellen liegt es nicht etwa an der natürlichen Fortpflanzung, sondern viel mehr daran, dass die Fische den ersten Sommer nicht überleben. Durch den übermässigen Gebrauch von Pestiziden in der Landwirtschaft, gerät Dünger in die natürlichen Gewässer und führt zu einem klebrigen, vermoosten Boden. Dieser nährreiche Boden verursacht die Zerstörung der Laichplätze von Bachforellen und Äschen. Seit dem Aufschwung gegen die Jahrtausendwende erleben wir vor allem im Mittelland einen progressiven Rückgang der kälteliebenden Fischbestände.
 
+
+
 ![Zwei Städter mit der falschen Ausrüstung, jedoch mit der richtigen Einstellung. (Xeno Messmer 25.09.2022)](japsss.jpeg)
 
 {{<box>}}

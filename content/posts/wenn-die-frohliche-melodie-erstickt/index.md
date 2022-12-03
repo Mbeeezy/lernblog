@@ -1,5 +1,5 @@
 +++
-title = "Wenn die fröhliche Melodie erstickt"
+title = "Wenn die fröhliche Melodie erstickt 2"
 date = "2022-12-01"
 draft = false
 pinned = false

@@ -3,6 +3,7 @@ title = "Wenn die fröhliche Melodie erstickt"
 date = "2022-12-01"
 draft = false
 pinned = false
+tags = ["Deutsch", "Reportage"]
 image = "joooo.jpeg"
 footnotes = "**Die Autoren:** Xeno Messmer, Corsin Casty"
 +++
@@ -10,9 +11,9 @@ footnotes = "**Die Autoren:** Xeno Messmer, Corsin Casty"
 
 ## Wie der Klimawandel die Bestände unserer kälteliebenden Fischbestände in der Aare schrumpfen lässt - der aussichtslose Kampf des Fischereivereins Aaretal
 
-{{</lead>}}
+*Eine Reportage von Corsin Casty, Xeno Messmer*
 
-### Petri Heil
+{{</lead>}}
 
 Die lebhafte Melodie von Schuberts “Forelle” ist eine ausgezeichnete Metapher für die Stimmung an jenem kühlen Septembermorgen an der Aare. Joachim Guthruf und seine Anglerfreunde vom Fischereiverein Aaretal haben uns (Corsin und Xeno) zum Äschenfischen nach Münsingen eingeladen. Obwohl die Wassertemperatur einige Grade über der normalen Monatstemperatur liegt, versuchen die Hobby-Fischer ihr Glück. “Petri-Heil” wünscht uns Fischer Joachim und wir schlenzen die zuckende Bienenmade, befestigt am Haken unserer Spinnrute, in die strömende Aare. Während wir mit Gummistiefel, und Wathosen durchs Flussbecken waten, fällt uns auf, dass die Wassertemperatur tatsächlich wärmer ist als erwartet. Statistiken zeigen einen klaren durchschnittlichen Temperaturanstieg seit den 1970er-Jahren. Dieser Anstieg von Rund 1.5 Grad Celsius hat im Sommer einen negativen Einfluss auf Kaltwasserfische wie Forelle, Äsche und Trüsche. Obwohl erst ab 25 Grad Celsius akute Todesgefahr herrscht, wird es bereits ab 23 Grad stressig für die kälteliebenden Spezies. Beim Fischbestand der Äsche sind 85% der Fische männlich. Experten vermuten, dass eine Korrelation zwischen Temperaturzunahme und dem prozentualen Anteil von männlichen Äschen besteht.
 
